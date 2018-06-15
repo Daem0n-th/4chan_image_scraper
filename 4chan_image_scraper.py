@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 import argparse
 from urllib.request import urlopen,Request,urlretrieve
